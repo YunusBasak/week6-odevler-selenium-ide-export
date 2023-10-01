@@ -1,1 +1,1 @@
-URL = "https://www.saucedemo.com"
+BASEURL = "https://www.saucedemo.com/"
